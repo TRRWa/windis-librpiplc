@@ -48,7 +48,7 @@ cd
 
 2. Run the following command to clone the repository:
 ```
-git clone -b v<tag-version> https://github.com/Industrial-Shields/librpiplc.git
+git clone -b v<tag-version> https://github.com/TRRWa/windis-librpiplc.git
 ```
 Where `<tag-version>` is the version number you wish to download. Before this unification, you had to choose between versions 1.X.X (for V3 PLCs) or 2.X.X (for V4 PLCs). As of 3.X.X, this library is compatible with all our Raspberry PLCs regardless of it's version. At the moment of writing, this library is available to Raspberry PLCs V6, V4 and V3.
 You can check the available versions in here: https://github.com/Industrial-Shields/librpiplc/tags
